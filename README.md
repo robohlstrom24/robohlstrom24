@@ -1,1 +1,4 @@
-![1](images/profile.banner.jpg)
+<p align="center">
+  <img src="profile.banner.jpg" width="50%">
+</p>
+

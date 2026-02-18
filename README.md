@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="images/profile.banner.jpg" width="50%">
+  <img src="images/profile.banner.jpg" width="75%">
 </p>
 

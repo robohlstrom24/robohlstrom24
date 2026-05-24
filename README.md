@@ -3,4 +3,4 @@
 </p>
 
 
-![CompTIA1](https://www.credly.com/badges/dc3d5742-33fa-4a00-ac32-f645d7048fc4/public_url)
+[![CompTIA1](https://www.credly.com/badges/dc3d5742-33fa-4a00-ac32-f645d7048fc4/public_url)

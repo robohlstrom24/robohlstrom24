@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  **IT Support Professional with hand-on home lab experience | Seattle, WA, USA** 
+  <b>IT Support Professional with hand-on home lab experience | Seattle, WA, USA</b> 
 </p>
 
 <p align="center">
